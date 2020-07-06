@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Thermometer Cricket</string>
+    <string name="know">Did you know that you can determine the temperature by counting the chirps of a cricket? Just Count the number of chirps in 25 seconds and place the number in the box below.</string>
+    <string name="hint">Number of chirps in 25 seconds</string>
+    <string name="submit">Calculate Temperature</string>
+    <string name="thermometer">thermometer</string>
+    <string name="more_information">More information</string>
+    <string name="back">Back</string>
+</resources>
